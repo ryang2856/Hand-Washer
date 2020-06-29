@@ -1,6 +1,6 @@
 # Hand-Washer
 The ESP8266 powered tutorial with a display to teach you how to wash your hands<br />	
-Please check out my Arduino Project here: <br />
+Please check out my Arduino Project here: https://create.arduino.cc/projecthub/ryang2856/hand-washer-ed9280 <br />
 <br />
 The file structure is like this:
 - 3D Printing Files {3D Printing STL files }
